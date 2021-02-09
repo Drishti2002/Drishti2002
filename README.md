@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### I am Drishti Priya.
+#### I am BTech. 2nd year student from NIT Sikkim.
 
 
 <!--
