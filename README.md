@@ -2,6 +2,9 @@
 #### I am Drishti Priya.
 #### I am BTech. 2nd year student from NIT Sikkim.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drishti2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Drishti2002/Drishti2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
