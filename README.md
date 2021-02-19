@@ -2,7 +2,7 @@
 #### I am Drishti Priya.
 #### I am BTech. 2nd year student from NIT Sikkim.
 
-<img align="center" alt="Drishti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Drishti2002&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" alt="Drishti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Drishti2002&count_private=true&show_icons=true&hide_border=true&theme=cobalt" />
 
 
 
